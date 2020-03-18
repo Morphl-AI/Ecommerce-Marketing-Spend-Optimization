@@ -45,7 +45,7 @@ over the baseline solution.
 ### 2.2 Optimal Optimization Problem
 Once we have a model for each campaign, we can solve the problem of picking the optimal budget allocation. The revenue plots for each campaign could look like this:
 
-![Sample Plots](...)
+![Sample Plots](https://raw.githubusercontent.com/Morphl-AI/Ecommerce-Marketing-Spend-Optimization/master/Images/sample-plots.png)
 
 The yellow line represents the cumulative sum (return/revenue) given the budget. Clearly, this is a monotonically increasing
 function (we get more money as we pour more money, however potentially sub optimal). The blue
