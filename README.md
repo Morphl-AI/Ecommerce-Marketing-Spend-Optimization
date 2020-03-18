@@ -49,9 +49,9 @@ Once we have a model for each campaign, we can solve the problem of picking the 
 
 The yellow line represents the cumulative sum (return/revenue) given the budget. Clearly, this is a monotonically increasing
 function (we get more money as we pour more money, however potentially sub optimal). The blue
-line is the relation between the budget and the returning sum. We see that this tells us how much
-we should optimally invest in each campaign. From this we can infer how much we should allocate
-for each campaign, resulting in the optimal solution.
+line is the relation between the budget and the returning sum. This tells us how much
+we should optimally invest in each campaign, thus we can infer how much we should allocate
+for each marketing channel, resulting in the optimal solution.
 
 We observe that even for dummy data, once we make the models non-linear, the global optimum
 varies greatly. We thus propose a solution based on various non convex continuous
