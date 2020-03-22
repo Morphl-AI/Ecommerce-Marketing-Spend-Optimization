@@ -1,7 +1,9 @@
 # Marketing Spend Optimization for Online Retailers
 ## 1. Introduction 
 
-The task is to optimize the budget allocation between multiple campaigns.Some of them are "inner" optimizable (Google Ads, Facebook Ads), others are out of reach: E-mail, SEO, etc. There are multiple "problems" at once that are embedded in this "budget allocation" term and we’ll try to provide a direction to solving the problem using the campaigns as black-boxes, making use only of the cost and the revenue produced.
+The business problem can be expressed in the following manner: given a total budget B, calculate the optimum monthly budget {B1, ..., B12} distribution across multiple channels (and potentially campaigns {C1, ..., Cn}) in order to maximize revenue R.
+
+While the task is to optimize the budget allocation between multiple channels & campaigns, some of them are "inner" optimizable (Google Ads, Facebook Ads), others are out of reach: E-mail, SEO, etc. There are multiple "problems" at once that are embedded in this "budget allocation" term and we’ll try to provide a direction to solving the problem using the campaigns as black-boxes, making use only of the cost and the revenue produced.
 
 ## 2. Budget Allocation Overview
 
