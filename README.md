@@ -3,6 +3,8 @@
 
 The business problem can be expressed in the following manner: given a total budget B, calculate the optimum monthly budget  allocation {B1, ..., B12} across multiple channels (and potentially campaigns {C1, ..., Cn}) in order to maximize revenue R.
 
+Here's a very basic [Marketing Budget Allocation Planning](https://bit.ly/marketing-budget-allocation) that assumes Year to Date (YTD) average Cost-per-Click (CPC), Converation Rate (CVR) and Average Order Value (AOV) for each channel.
+
 While the task is to optimize the budget allocation between multiple channels & campaigns, some of them are "inner" optimizable (Google Ads, Facebook Ads), others are out of reach: E-mail, SEO, etc. There are multiple "problems" at once that are embedded in this "budget allocation" term and we’ll try to provide a direction to solving the problem using the campaigns as black-boxes, making use only of the cost and the revenue produced.
 
 ## 2. Budget Allocation Overview
