@@ -1,7 +1,7 @@
 # Budget Optimization for Online Retailers
 
 ## 1. Context (COVID-19)
-MorphL is an AI platform for e-commerce companies which in essence contains a suite of machine learning models that are platform agnostic, that can be used across the customer journey and, of course, across the organization. One of these models offers online retailers the ability to optimize their budget allocation across multiple channels with the end goal of maximizing their revenues. 
+MorphL is an AI platform for e-commerce companies which in essence consists of a suite of machine learning models that are platform agnostic, that can be used across the customer journey and, of course, across the organization. One of these models offers online retailers the ability to optimize their budget allocation across multiple channels with the end goal of maximizing their revenues. 
 
 During COVID-19 crisis and in the spirit of #givefirst we decided to open-source the “E-commerce Budget Optimization” model and offer it for FREE to online retailers out there.
 
